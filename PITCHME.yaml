@@ -1,0 +1,5 @@
+# スライドのページ数表示の設定
+slide-number: true
+
+# title
+text-transform: none
