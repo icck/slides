@@ -1,4 +1,4 @@
-### 比べてわかったGraphQL品評会(vs REST)
+## 比べてわかったGraphQL品評会(vs REST)
 2019/01/23 komori issei
 
 ---
