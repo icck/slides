@@ -7,3 +7,6 @@ slide-number: true
 #Highlight Setting
 #highlight : monokai
 highlight : mono-blue
+
+#Transition Setting(遷移時のアクション。convex, concave, default, fade, none, slide, zoom が設定可)
+transition : convex
