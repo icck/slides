@@ -3,6 +3,7 @@
 
 ---
 #### GrafhQL TD;TR
+![alt](assets/graphql.png)
 - Facebookが開発したOSS、API作成の仕組み |
 - APIの進化系 |
 - 高効率なデータ指向のアプリ開発には強力なツール |
