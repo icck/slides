@@ -4,10 +4,10 @@
 ---
 #### Agenda
 
-- What's Docker?
-- What's Kubernetes?
-- What's Rancher?
-- Rancher Demo
+- What's Docker? |
+- What's Kubernetes? |
+- What's Rancher? |
+- Rancher Demo |
 
 ---
 
