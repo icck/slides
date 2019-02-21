@@ -106,23 +106,23 @@
 
 +++
 ### What's Rancher?
-1. Run Rancher Container!!
+Step1 Run Rancher Container!!
 
 ~~~
 $ sudo docker run -d --restart=unless-stopped -p 80:80 -p 443:443 rancher/rancher
 ~~~
 
-2. Access!!
+Step2 Access!!
 
 ~~~
 https://EXTERNAL-IP/
 ~~~
 
-
-
 ---
 
 ### Rancher Demo
+- カタログから簡単デプロイ
 
 ---
+https://gitpitch.com/icck/slides/rancher
 
