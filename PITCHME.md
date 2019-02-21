@@ -5,7 +5,7 @@
 
 #### What's Docker?
 
-![alt](assets/Docker_(container_engine)_logo.png)
+![alt](assets/Docker.png)
 
 ---
 
