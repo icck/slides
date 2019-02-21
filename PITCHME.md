@@ -107,13 +107,14 @@
 +++
 ### What's Rancher?
 - Setup => 2 Step
-  - Run Rancher Container!!
+
+1. Run Rancher Container!!
 
 ~~~
 $ sudo docker run -d --restart=unless-stopped -p 80:80 -p 443:443 rancher/rancher
 ~~~
 
-  - Access!!
+2. Access!!
 
 ~~~
 https://EXTERNAL-IP/
