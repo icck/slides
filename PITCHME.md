@@ -85,30 +85,27 @@
 
 ### What's Rancher?
 - About
-  - コンテナ環境の構築・運用するための統合管理プラットフォーム
-  - オンプレ＆クラウドどちらでも利用可能
-  - ホストとコンテナの管理
-  - アプリケーションのデプロイ
-  - オーケストレーション環境の自動構築
-  - Rancher Labが開発,OSS
-  - 有償サポートのビジネスモデル
-  - 100% Kubernetes
-  - Golang,etcd
+  - コンテナ環境の構築・運用するための統合管理プラットフォーム |
+  - オンプレ＆クラウドどちらでも利用可能 |
+  - ホストとコンテナの管理 |
+  - アプリケーションのデプロイ |
+  - オーケストレーション環境の自動構築 |
+  - Rancher Labが開発,OSS |
+  - 有償サポートのビジネスモデル |
+  - 100% Kubernetes |
+  - Golang,etcd |
 
 +++
 
 ### What's Rancher?
 - Feature 2.X
-  - One Click Deployment!!
+  - One Click Deployment!! |
     - 強力なカタログ一覧から簡単にデプロイ
-  - Creating Private Catalog!!
+  - Creating Private Catalog!! |
     - オリジナルカタログも登録可能
 
 +++
 ### What's Rancher?
-- Setup => 2 Step
-
-
 1. Run Rancher Container!!
 
 ~~~
