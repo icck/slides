@@ -2,23 +2,52 @@
 2019/02/21 komori issei
 
 ---
+#### Agenda
 
-#### What's Docker?
+- What's Docker?
+- What's Kubernetes?
+- What's Rancher?
+- Rancher Demo
+
+---
 
 ![alt](assets/Docker.png)
 
 ---
 
-#### What's Kubernetes?
+#### What's Docker?
+- About
+  - コンテナ型の仮想環境を作成、配布、実行するためのプラットフォーム
+
+  ------------------------
+  | Container | Container |
+  ------------------------
+  |     Docker Engine     |
+  ------------------------
+  |       Host OS         |
+  ------------------------
+
+---
 
 ![alt](assets/k8s.png)
 
 ---
 
-### What's Rancher?
+#### What's Kubernetes?
+
+
+---
 
 ![alt](assets/rancher-logo-horiz-color.png)
 
+---
+
+### What's Rancher?
+
+
+---
+
+### Rancher Demo
 
 ---
 
