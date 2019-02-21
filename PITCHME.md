@@ -1,13 +1,13 @@
-### 続・コンテナとは？
-2019/02/07 komori issei
+### Introduction of Rancher
+2019/02/21 komori issei
 
 ---
 
-#### 前回のおさらい
+#### What's Docker?
 
 ---
 
-![alt](assets/overview1.PNG)
+![alt](assets/Docker_(container_engine)_logo.png)
 
 #### コンテナ
 
