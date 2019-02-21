@@ -5,16 +5,22 @@
 
 #### What's Docker?
 
----
-
 ![alt](assets/Docker_(container_engine)_logo.png)
 
-#### コンテナ
+---
+
+#### What's Kubernetes?
+
+![alt](assets/k8s.png)
+
+---
+
+### What's Rancher?
+
+![alt](assets/rancher-logo-horiz-color.png)
 
 
-
-
-
+---
 
 
 ### 比べてわかったGraphQL品評会(vs REST)
