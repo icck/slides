@@ -21,6 +21,7 @@
 
 +++
 
+#### What's Docker?
 ~~~
   ------------------------
   | Container | Container |
@@ -68,9 +69,12 @@
 
 #### What's Kubernetes?
  - 知らない間に使ってます
-![alt](assets/pokemongo.png) |
-![alt](assets/abematv.png) |
-![alt](assets/merukari.png) |
++++
+![alt](assets/pokemongo.png)
++++
+![alt](assets/abematv.png)
++++
+![alt](assets/merukari.png)
 
 
 ---
