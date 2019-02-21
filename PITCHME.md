@@ -84,6 +84,39 @@
 ---
 
 ### What's Rancher?
+- About
+  - コンテナ環境の構築・運用するための統合管理プラットフォーム
+  - オンプレ＆クラウドどちらでも利用可能
+  - ホストとコンテナの管理
+  - アプリケーションのデプロイ
+  - オーケストレーション環境の自動構築
+  - Rancher Labが開発,OSS
+  - 有償サポートのビジネスモデル
+  - 100% Kubernetes
+  - Golang,etcd
+
++++
+
+### What's Rancher?
+- Feature 2.X
+  - One Click Deployment!!
+    - 強力なカタログ一覧から簡単にデプロイ
+  - Creating Private Catalog!!
+    - オリジナルカタログも登録可能
+
++++
+### What's Rancher?
+- Setup => 2 Step
+  - Run Rancher Container!!
+~~~
+$ sudo docker run -d --restart=unless-stopped -p 80:80 -p 443:443 rancher/rancher
+~~~
+
+  - Access!!
+~~~
+https://EXTERNAL-IP/
+~~~
+
 
 
 ---
@@ -91,42 +124,4 @@
 ### Rancher Demo
 
 ---
-
-
-### 比べてわかったGraphQL品評会(vs REST)
-2019/01/23 komori issei
-
----
-#### GrafhQL TD;TR
-![alt](assets/graphql.PNG)
-- Facebookが開発したOSS、API作成の仕組み |
-- APIの進化系 |
-- 高効率なデータ指向のアプリ開発には強力なツール |
-- サーバーサイドが簡単なAPIは駆逐する |
-- 1度のクエリでエンドポイントが複数にならずシンプル |
-
----
-#### 1度のクエリでエンドポイントが複数にならずシンプル
-- GraphQLとRESTの違い
-- 寿司の注文で例えてお話します
-
-+++
-#### RESTfulAPI = セットでしか注文できないお店
-- 求)        マグロと玉子がほしい |
-- メニュー1) 松12個セットにマグロはあるが玉子はない |
-- メニュー2) 竹 8個セットにマグロはないが玉子はある |
-- 注文1)     松のAPIをコールし注文 |
-- 受取1)     松12個の中からマグロを取得 |
-- 注文2)     竹のAPIをコールし注文 |
-- 受取2)     竹 8個の中から玉子を取得 |
-+++
-#### GraphQL = 好きな組み合わせで単品注文
-- 求)        マグロと玉子がほしい |
-- メニュー)  すべて単品注文可能なメニュー |
-- 注文)      マグロと玉子の２つをAPIコールし注文 |
-- 受取)      マグロと玉子の２つを取得 |
-
----
-![alt](assets/appsync.PNG)
-
 
