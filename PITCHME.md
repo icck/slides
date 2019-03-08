@@ -37,7 +37,7 @@
 #### What's Docker?
 
 @snap[east]
-![alt](assets/dockercompose.png)
+![alt](assets/dockercompose2.png)
 @snapend
 
 @snap[west]
