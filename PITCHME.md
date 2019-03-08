@@ -46,7 +46,7 @@
 
 @snapend
 
-@snap[east span-50]
+@snap[east span]
 
 - 複数コンテナを一括管理
 - 依存関係やネットワーク、レジストリ等の管理
