@@ -32,6 +32,19 @@
   ------------------------
 ~~~
 
++++
+
+#### What's Docker?
+
+@snap[east]
+![alt](assets/dockercompose.png)
+@snapend
+
+@snap[west]
+- 複数コンテナを一括管理
+- 依存関係やネットワーク、レジストリ等の管理
+@snapend
+
 ---
 
 ![alt](assets/k8s.png)
