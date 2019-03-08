@@ -36,11 +36,11 @@
 
 #### What's Docker?
 
-@snap[east]
+@snap[west]
 ![alt](assets/dockercompose2.png)
 @snapend
 
-@snap[west]
+@snap[east]
 - 複数コンテナを一括管理
 - 依存関係やネットワーク、レジストリ等の管理
 @snapend
