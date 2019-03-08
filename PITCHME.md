@@ -34,15 +34,19 @@
 
 +++
 
+@snap[north]
+
 #### What's Docker?
 
-@snap[west]
+@snapend
+
+@snap[west span-50]
 
 ![alt](assets/dockercompose2.png)
 
 @snapend
 
-@snap[east]
+@snap[east span-50]
 
 - 複数コンテナを一括管理
 - 依存関係やネットワーク、レジストリ等の管理
